@@ -1,0 +1,55 @@
+{
+    
+    "list": [
+        {
+            "name": "Hardware",
+            "description": "Aplicación móvil para fijarse la hora y la temperatura, entre otras cosas",
+            "image": "https://drive.google.com/uc?export=view&id=1xTqz1XbXEcAXR5sBtqcUIw-Wt7S9UgPu",
+            "link": "https://github.com/UlisesBaamonde/TP-Hardware"
+        },
+        {
+            "name": "Personajes",
+            "description": "Sitio que obtiene personajes y series de una base de datos",
+            "image": "https://drive.google.com/uc?export=view&id=1slxJ4hz1CSWAu_J2WNyLRRqOJzLP2m64",
+            "link": "https://github.com/komang234/TP_Personajes_FINAL"
+        },
+        {
+            "name": "Buscador de Películas",
+            "description": "Sitio web que te permite buscar peliculas según distintos campos",
+            "image": "https://drive.google.com/uc?export=view&id=1OrX-SZ0df2G-oqw4TDzvMHc9G_BDh-O2",
+            "link": "https://github.com/JoaquinRiolfi/BuscadorDePeliculas"
+        },
+        {
+            "name": "Gestor de Citas",
+            "description": "Web para gestionar de turnos de veterinaria",
+            "image": "https://drive.google.com/uc?export=view&id=12azb4gqNsoY0LGQtU6SCRh1UCUihlufe",
+            "link": "https://github.com/JoaquinRiolfi/Correccion_TP4"
+        },
+        {
+            "name": " Proyecto Poligestion",
+            "description": "Aplicacion para gestionar policias y asignar rutas personalizadas.",
+            "image": "https://drive.google.com/uc?export=view&id=1l8vZI7KoP5k2PHzW2pgFhmXBm8QWswm3",
+            "link": "https://github.com/JoaquinRiolfi/MVCPoliGestion"
+        },
+        {
+            "name": "Jugando Con Banderas",
+            "description": "Juego de adivinanza de banderas",
+            "image": "https://drive.google.com/uc?export=view&id=1_nvo8TiKF7FjEIQfQ4HVxxJ67Ir_oXO5",
+            "link": "https://campus.ort.edu.ar/descargarentrega/1144488"
+        },
+        {
+            "name": "Buscador Comidas",
+            "description": "Sitio cuyo proposito es la simulación de un menú de un restaurante.",
+            "image": "https://drive.google.com/uc?export=view&id=1vmPZ7O5mKc1e8kXbPBGfCeDWjOZ40LSV",
+            "link": "https://github.com/JoaquinRiolfi/TP_Comidas"
+        },
+        {
+            "name": "Directorio de Personas",
+            "description": "Web con listas de personas con sus respectivas estadísticas.",
+            "image": "https://drive.google.com/uc?export=view&id=1LOnBXWZRfv-z1cAOEhO_4mInrfAHgMj2",
+            "link": "https://campus.ort.edu.ar/descargarentrega/1170617"
+        }
+     
+        
+    ]
+}

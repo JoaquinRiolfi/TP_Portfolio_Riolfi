@@ -1,0 +1,134 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  animation: backgroundChange 3s infinite alternate;
+  background-color: #f0f0f0;
+}
+
+@keyframes backgroundChange {
+  from {
+    background-color: #f0f0f0;
+  }
+  to {
+    background-color: #375b88;
+  }
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #88c0d0;
+}
+
+ul li {
+  display: inline-block;
+  padding: 12px;
+  margin: 6px;
+  border: 2px solid #4c566a;
+  font-family: 'Arial', sans-serif;
+  font-size: 16px;
+  background-color: #d8dee9;
+  color: #2e3440;
+  text-transform: uppercase;
+  border-radius: 8px;
+}
+
+a {
+  color: #2e3440;
+  text-decoration: none;
+}
+
+p {
+  color: #2e3440;
+  font-family: 'Arial', sans-serif;
+  line-height: 1.8em;
+  font-size: 16px; 
+}
+
+.TituloLista {
+  margin-top: 40px;
+  text-align: center;
+  color: #2e3440;
+  font-size: 48px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.NombreLista {
+  text-align: center;
+  color: #88c0d0;
+  font-size: 28px;
+}
+
+.center {
+  text-align: center;
+}
+
+.DetallesPersona,
+.StatsPersona {
+  text-align: left;
+  color: #2e3440;
+  font-size: 18px;
+  line-height: 1.8em;
+  text-transform: capitalize;
+}
+
+form {
+  text-align: center;
+  margin-top: 30px;
+}
+
+::placeholder {
+  font-size: 16px;
+  text-transform: capitalize;
+}
+
+.TituloForm {
+  margin-top: 40px;
+  text-align: center;
+  color: #2e3440;
+  font-size: 48px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.estilo {
+  font-size: 18px;
+  color: #fff;
+  font-family: 'Arial', sans-serif;
+  padding: 10px 20px;
+  border-radius: 6px;
+  transition: background-color 0.4s ease, color 0.4s ease;
+  background-color: #5e81ac;
+  border: 2px solid #5e81ac;
+  cursor: pointer;
+}
+
+.estilo:active {
+  position: relative;
+  top: 2px;
+  background-color: #434c5e;
+}
+
+.estilo:hover {
+  background-color: #434c5e;
+}
+
+input {
+  width: 280px;
+  height: 40px;
+  font-size: 16px;
+  border-radius: 6px;
+  border: 2px solid #4c566a;
+  padding: 8px;
+}
+
+.image {
+  display: block;
+  margin: 30px auto;
+  width: 200px;
+  height: auto;
+}
+
